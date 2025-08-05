@@ -1,7 +1,4 @@
 Allstate Insurance Pricing Model
-================================
-
-Predict insurance costs with transparency and confidence.
 
 This project is a step-by-step, interpretable modeling pipeline that predicts auto insurance premiums using real-world customer and policy data from an Allstate insurance survey Built entirely in a Jupyter notebook.
 
