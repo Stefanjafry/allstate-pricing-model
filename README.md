@@ -3,6 +3,8 @@ Allstate Insurance Pricing Model
 This project is a step-by-step, interpretable modeling pipeline that predicts auto insurance premiums using real-world customer and policy data from an Allstate insurance survey Built entirely in a Jupyter notebook.
 
 What’s Inside:
+
+
 • A full linear regression modeling walkthrough  
 • Feature engineering with interaction terms and non-linearities  
 • Box-Cox transformation to stabilize variance  
